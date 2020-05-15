@@ -1,3 +1,6 @@
 [submodule "mod/assign/submission/mahara"]
 	path = mod/assign/submission/mahara
 	url = https://github.com/MaharaProject/moodle-assignsubmission_mahara.git
+[submodule "blocks/turnitin"]
+	path = blocks/turnitin
+	url = https://github.com/turnitin/moodle-block_turnitin.git
