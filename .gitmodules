@@ -4,3 +4,6 @@
 [submodule "blocks/turnitin"]
 	path = blocks/turnitin
 	url = https://github.com/turnitin/moodle-block_turnitin.git
+[submodule "mod/turnitintooltwo"]
+	path = mod/turnitintooltwo
+	url = https://github.com/turnitin/moodle-mod_turnitintooltwo.git
