@@ -7,3 +7,6 @@
 [submodule "mod/turnitintooltwo"]
 	path = mod/turnitintooltwo
 	url = https://github.com/turnitin/moodle-mod_turnitintooltwo.git
+[submodule "plagiarism/turnitin"]
+	path = plagiarism/turnitin
+	url = https://github.com/turnitin/moodle-plagiarism_turnitin.git
