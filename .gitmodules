@@ -82,3 +82,45 @@
 [submodule "blocks/quickmail"]
 	path = blocks/quickmail
 	url = https://github.com/lsuits/block_quickmail.git
+[submodule "mod/scheduler"]
+	path = mod/scheduler
+	url = https://github.com/bostelm/moodle-mod_scheduler.git
+[submodule "mod/lightboxgallery"]
+	path = mod/lightboxgallery
+	url = https://github.com/netspotau/moodle-mod_lightboxgallery.git
+[submodule "mod/attendanceregister"]
+	path = mod/attendanceregister
+	url = https://github.com/CinecaElearning/moodle-mod_attendanceregister.git
+[submodule "mod/groupselect"]
+	path = mod/groupselect
+	url = https://github.com/BLC-HTWChur/moodle-mod_groupselect.git
+[submodule "local/cohortrole"]
+	path = local/cohortrole
+	url = https://github.com/paulholden/moodle-local_cohortrole.git
+[submodule "enrol/groupsync"]
+	path = enrol/groupsync
+	url = https://github.com/moodlehq/moodle-enrol_groupsync.git
+[submodule "auth/mcae"]
+	path = auth/mcae
+	url = https://github.com/danmarsden/moodle-auth_mcae.git
+[submodule "admin/tool/editrolesbycap"]
+	path = admin/tool/editrolesbycap
+	url = https://github.com/moodleou/moodle-tool_editrolesbycap.git
+[submodule "auth/saml2"]
+	path = auth/saml2
+	url = https://github.com/CatalystIT-AU/moodle-auth_saml2.git
+[submodule "blocks/attendance"]
+	path = blocks/attendance
+	url = https://github.com/danmarsden/moodle-block_attendance.git
+[submodule "mod/attendance"]
+	path = mod/attendance
+	url = https://github.com/danmarsden/moodle-mod_attendance.git
+[submodule "mod/assign/submission/mahara"]
+	path = mod/assign/submission/mahara
+	url = https://github.com/MaharaProject/moodle-assignsubmission_mahara.git
+[submodule "mod/reengagement"]
+	path = mod/reengagement
+	url = https://github.com/catalyst/moodle-mod_reengagement.git
+[submodule "mod/bigbluebuttonbn"]
+	path = mod/bigbluebuttonbn
+	url = https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn.git
