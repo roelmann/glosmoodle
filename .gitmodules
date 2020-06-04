@@ -10,3 +10,6 @@
 [submodule "plagiarism/turnitin"]
 	path = plagiarism/turnitin
 	url = https://github.com/turnitin/moodle-plagiarism_turnitin.git
+[submodule "report/myfeedback"]
+	path = report/myfeedback
+	url = https://github.com/jgramp/moodle-report_myfeedback.git
