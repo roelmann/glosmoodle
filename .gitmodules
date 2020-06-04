@@ -79,3 +79,6 @@
 [submodule "lib/editor/atto/plugins/templates"]
 	path = lib/editor/atto/plugins/templates
 	url = https://github.com/sharpchi/moodle-atto_templates.git
+[submodule "blocks/quickmail"]
+	path = blocks/quickmail
+	url = https://github.com/lsuits/block_quickmail.git
