@@ -16,3 +16,12 @@
 [submodule "theme/uognynteen"]
 	path = theme/uognynteen
 	url = https://github.com/roelmann/glos-moodle-theme_uognynteen.git
+[submodule "course/format/topcoll"]
+	path = course/format/topcoll
+	url = https://github.com/gjb2048/moodle-format_topcoll.git
+[submodule "course/format/onetopic"]
+	path = course/format/onetopic
+	url = https://github.com/davidherney/moodle-format_onetopic.git
+[submodule "course/format/grid"]
+	path = course/format/grid
+	url = https://github.com/gjb2048/moodle-format_grid.git
