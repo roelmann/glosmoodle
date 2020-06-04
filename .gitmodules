@@ -13,3 +13,6 @@
 [submodule "report/myfeedback"]
 	path = report/myfeedback
 	url = https://github.com/jgramp/moodle-report_myfeedback.git
+[submodule "theme/uognynteen"]
+	path = theme/uognynteen
+	url = https://github.com/roelmann/glos-moodle-theme_uognynteen.git
