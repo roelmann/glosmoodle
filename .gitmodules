@@ -34,3 +34,6 @@
 [submodule "grade/export/checklist"]
 	path = grade/export/checklist
 	url = https://github.com/davosmith/moodle-grade_checklist.git
+[submodule "blocks/completion_progress"]
+	path = blocks/completion_progress
+	url = https://github.com/deraadt/moodle-block_completion_progress.git
