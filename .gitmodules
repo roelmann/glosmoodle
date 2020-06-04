@@ -49,3 +49,9 @@
 [submodule "blocks/course_contents"]
 	path = blocks/course_contents
 	url = https://github.com/mudrd8mz/moodle-block_course_contents.git
+[submodule "blocks/configurable_reports"]
+	path = blocks/configurable_reports
+	url = https://github.com/jleyva/moodle-block_configurablereports.git
+[submodule "report/customsql"]
+	path = report/customsql
+	url = https://github.com/moodleou/moodle-report_customsql.git
