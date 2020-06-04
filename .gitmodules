@@ -124,3 +124,6 @@
 [submodule "mod/bigbluebuttonbn"]
 	path = mod/bigbluebuttonbn
 	url = https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn.git
+[submodule "mod/hvp"]
+	path = mod/hvp
+	url = https://github.com/h5p/h5p-moodle-plugin.git
