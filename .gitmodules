@@ -37,3 +37,15 @@
 [submodule "blocks/completion_progress"]
 	path = blocks/completion_progress
 	url = https://github.com/deraadt/moodle-block_completion_progress.git
+[submodule "blocks/course_contacts"]
+	path = blocks/course_contacts
+	url = https://github.com/roelmann/moodle-block_course_contacts.git
+[submodule "blocks/quickfindlist"]
+	path = blocks/quickfindlist
+	url = https://github.com/marxjohnson/moodle-block_quickfindlist.git
+[submodule "blocks/quickcourselist"]
+	path = blocks/quickcourselist
+	url = https://github.com/marxjohnson/moodle-block_quickcourselist.git
+[submodule "blocks/course_contents"]
+	path = blocks/course_contents
+	url = https://github.com/mudrd8mz/moodle-block_course_contents.git
