@@ -25,3 +25,12 @@
 [submodule "course/format/grid"]
 	path = course/format/grid
 	url = https://github.com/gjb2048/moodle-format_grid.git
+[submodule "mod/checklist"]
+	path = mod/checklist
+	url = https://github.com/davosmith/moodle-checklist.git
+[submodule "blocks/checklist"]
+	path = blocks/checklist
+	url = https://github.com/davosmith/moodle-block_checklist.git
+[submodule "grade/export/checklist"]
+	path = grade/export/checklist
+	url = https://github.com/davosmith/moodle-grade_checklist.git
