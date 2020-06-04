@@ -4,3 +4,9 @@
 [submodule "local/barcode"]
 	path = local/barcode
 	url = https://github.com/roelmann/glos-moodle-local_barcode.git
+[submodule "blocks/turnitin"]
+	path = blocks/turnitin
+	url = https://github.com/turnitin/moodle-block_turnitin.git
+[submodule "plagiarism/turnitin"]
+	path = plagiarism/turnitin
+	url = https://github.com/turnitin/moodle-plagiarism_turnitin.git
