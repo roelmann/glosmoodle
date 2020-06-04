@@ -1,0 +1,6 @@
+[submodule "mod/assign/submission/physical"]
+	path = mod/assign/submission/physical
+	url = https://github.com/roelmann/glos-moodle-assignsubmission_physical.git
+[submodule "local/barcode"]
+	path = local/barcode
+	url = https://github.com/roelmann/glos-moodle-local_barcode.git
