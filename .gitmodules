@@ -166,3 +166,36 @@
 [submodule "admin/tool/log/store/jisc_xapi"]
 	path = admin/tool/log/store/jisc_xapi
 	url = https://github.com/roelmann/glos-moodle-admin_tool_jisc_xapi.git
+[submodule "mod/assign/submission/gradereviews"]
+	path = mod/assign/submission/gradereviews
+	url = https://github.com/mouneyrac/moodle-assignsubmission_gradereviews.git
+[submodule "mod/assign/submission/assessmentflags"]
+	path = mod/assign/submission/assessmentflags
+	url = https://github.com/roelmann/glos-moodle-assignsubmission_assessmentflags.git
+[submodule "blocks/asptwo"]
+	path = blocks/asptwo
+	url = https://github.com/roelmann/glo-moodle-block_asptwo.git
+[submodule "blocks/courselink"]
+	path = blocks/courselink
+	url = https://github.com/roelmann/glos-moodle-blocks_courselink.git
+[submodule "blocks/discovery"]
+	path = blocks/discovery
+	url = https://github.com/roelmann/glos-moodle-blocks_discovery.git
+[submodule "blocks/jisc_attendance"]
+	path = blocks/jisc_attendance
+	url = https://github.com/roelmann/glos-moodle-block_jisc_attendance.git
+[submodule "blocks/library_glossary"]
+	path = blocks/library_glossary
+	url = https://github.com/roelmann/glos-moodle-blocks_library_glossary.git
+[submodule "blocks/moduleguide"]
+	path = blocks/moduleguide
+	url = https://github.com/roelmann/glos-moodle-blocks_moduleguide.git
+[submodule "blocks/personaltutor"]
+	path = blocks/personaltutor
+	url = https://github.com/roelmann/glos-moodle-blocks_personaltutor.git
+[submodule "blocks/simpleblock_bcs"]
+	path = blocks/simpleblock_bcs
+	url = https://github.com/roelmann/glos-moodle-blocks_simpleblock_bcs.git
+[submodule "blocks/supportlinks"]
+	path = blocks/supportlinks
+	url = https://github.com/roelmann/glos-moodle-blocks_supportlinks.git
