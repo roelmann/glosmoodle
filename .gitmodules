@@ -199,3 +199,6 @@
 [submodule "blocks/supportlinks"]
 	path = blocks/supportlinks
 	url = https://github.com/roelmann/glos-moodle-blocks_supportlinks.git
+[submodule "local/extdb"]
+	path = local/extdb
+	url = https://github.com/roelmann/glos-moodle-local_extdb.git
