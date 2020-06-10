@@ -205,3 +205,54 @@
 [submodule "blocks/gradesend"]
 	path = blocks/gradesend
 	url = https://github.com/roelmann/glos-moodle_blocks_gradesend.git
+[submodule "local/assessmentdates"]
+	path = local/assessmentdates
+	url = https://github.com/roelmann/glos-moodle-local_assessmentdates.git
+[submodule "local/assessmentextension_cal"]
+	path = local/assessmentextension_cal
+	url = https://github.com/roelmann/glos-moodle-local_assessmentextension_cal.git
+[submodule "local/assessmentextensions"]
+	path = local/assessmentextensions
+	url = https://github.com/roelmann/glos-moodle-local_assessmentextensions.git
+[submodule "local/assessmentfbrelease"]
+	path = local/assessmentfbrelease
+	url = https://github.com/roelmann/glos-moodle-local_assessmentfbrelease.git
+[submodule "local/assessmentgrades"]
+	path = local/assessmentgrades
+	url = https://github.com/roelmann/glos-moodle-local_assessmentgrades.git
+[submodule "local/assessmentsettings"]
+	path = local/assessmentsettings
+	url = https://github.com/roelmann/glos-moodle-local_assessmentsettings.git
+[submodule "local/categorycreate"]
+	path = local/categorycreate
+	url = https://github.com/roelmann/glos-moodle-local_categorycreate.git
+[submodule "local/catmembers"]
+	path = local/catmembers
+	url = https://github.com/roelmann/glos-moodle-local_catmembers.git
+[submodule "local/cohortmembers"]
+	path = local/cohortmembers
+	url = https://github.com/roelmann/glos-moodle-local_cohortmembers.git
+[submodule "local/createreassessmentgrouptables"]
+	path = local/createreassessmentgrouptables
+	url = https://github.com/roelmann/glos-moodle-local_createreassessmentgrouptables.git
+[submodule "local/createreassessmentmoodlegroup"]
+	path = local/createreassessmentmoodlegroup
+	url = https://github.com/roelmann/glos-moodle-local_createreassessmentmoodlegroup.git
+[submodule "local/enrolreassessmentgroupusers"]
+	path = local/enrolreassessmentgroupusers
+	url = https://github.com/roelmann/glos-moodle-local_enrolreassessmentgroupusers.git
+[submodule "local/modulecreate"]
+	path = local/modulecreate
+	url = https://github.com/roelmann/glos-moodle-local_modulecreate.git
+[submodule "local/moduleorganise"]
+	path = local/moduleorganise
+	url = https://github.com/roelmann/glos-moodle-local_moduleorganise.git
+[submodule "local/nightlyscheduledtasks"]
+	path = local/nightlyscheduledtasks
+	url = https://github.com/roelmann/glos-moodle-local_nightlyscheduledtasks.git
+[submodule "local/personaltutors"]
+	path = local/personaltutors
+	url = https://github.com/roelmann/glos-moodle-local_personaltutors.git
+[submodule "local/scheduledtasks"]
+	path = local/scheduledtasks
+	url = https://github.com/roelmann/glos-moodle-local_scheduledtasks.git
