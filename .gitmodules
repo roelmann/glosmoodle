@@ -163,6 +163,6 @@
 [submodule "theme/boost_o365teams"]
 	path = theme/boost_o365teams
 	url = https://github.com/microsoft/moodle-theme_boost_o365teams.git
-[submodule "admin/tool/jisc_xapi"]
-	path = admin/tool/jisc_xapi
+[submodule "admin/tool/log/store/jisc_xapi"]
+	path = admin/tool/log/store/jisc_xapi
 	url = https://github.com/roelmann/glos-moodle-admin_tool_jisc_xapi.git
