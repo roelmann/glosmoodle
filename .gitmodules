@@ -127,3 +127,21 @@
 [submodule "mod/hvp"]
 	path = mod/hvp
 	url = https://github.com/h5p/h5p-moodle-plugin.git
+[submodule "mod/aspirelists"]
+	path = mod/aspirelists
+	url = https://github.com/roelmann/glos-moodle-mod_aspirelists.git
+[submodule "mod/assign/submission/estream"]
+	path = mod/assign/submission/estream
+	url = https://github.com/roelmann/glos-moodle-assignsubmission_estream.git
+[submodule "filter/planetestream"]
+	path = filter/planetestream
+	url = https://github.com/roelmann/glos-moodle-filter_planetestream.git
+[submodule "lib/editor/atto/plugins/planetestream"]
+	path = lib/editor/atto/plugins/planetestream
+	url = https://github.com/roelmann/glos-moodle-atto_planetestream.git
+[submodule "lib/editor/tinymce/plugins/planetestream"]
+	path = lib/editor/tinymce/plugins/planetestream
+	url = https://github.com/roelmann/glos-moodle-tinymce_planetestream.git
+[submodule "filter/estreamauth"]
+	path = filter/estreamauth
+	url = https://github.com/roelmann/glos-moodle-filter_estreamauth.git
