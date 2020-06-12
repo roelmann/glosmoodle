@@ -256,3 +256,33 @@
 [submodule "local/scheduledtasks"]
 	path = local/scheduledtasks
 	url = https://github.com/roelmann/glos-moodle-local_scheduledtasks.git
+[submodule "auth/outage"]
+	path = auth/outage
+	url = https://github.com/catalyst/moodle-auth_outage.git
+[submodule "course/format/tiles"]
+	path = course/format/tiles
+	url = https://bitbucket.org/dw8/moodle-format_tiles.git
+[submodule "block/multiblock"]
+	path = block/multiblock
+	url = https://github.com/Arantor/moodle-block_multiblock.git
+[submodule "local/aws"]
+	path = local/aws
+	url = https://github.com/catalyst/moodle-local_aws.git
+[submodule "admin/tool/heartbeat"]
+	path = admin/tool/heartbeat
+	url = https://github.com/catalyst/moodle-tool_heartbeat.git
+[submodule "admin/tool/lockstats"]
+	path = admin/tool/lockstats
+	url = https://github.com/catalyst/moodle-tool_lockstats.git
+[submodule "admin/tool/objectfs"]
+	path = admin/tool/objectfs
+	url = https://github.com/catalyst/moodle-tool_objectfs.git
+[submodule "files/converter/librelambda"]
+	path = files/converter/librelambda
+	url = https://github.com/catalyst/moodle-fileconverter_librelambda.git
+[submodule "mod/overflow"]
+	path = mod/overflow
+	url = https://github.com/learnweb/moodle-mod_moodleoverflow.git
+[submodule "mod/pdfannotator"]
+	path = mod/pdfannotator
+	url = https://github.com/rwthmoodle/moodle-mod_pdfannotator.git
